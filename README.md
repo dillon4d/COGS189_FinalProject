@@ -7,4 +7,4 @@ YouTube video: [Test Your Stress Experiment](https://youtu.be/Z2ze1ryEfu4)
 Developer Tools 2.5 Development Guide. (2014, July 01). Retrieved March 16, 2021, 
 from http://developer.neurosky.com/docs/doku.php?id=developer_tools_2.5_development_guide
 
-S. Elferink, ArduMind, (2019), GitHub repository, https://github.com/sieuwe1/ArduMind
+S. Elferink, ArduMind, (2019), GitHub repository. [GitHub](https://github.com/sieuwe1/ArduMind)
